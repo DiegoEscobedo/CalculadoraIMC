@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraIMC.vistas.MenuPrincipal"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#421049">
+            <Label Text="Claculadora IMC" FontSize="40" FontAttributes="Bold" TextColor="White" Margin="20,60,20,0" HorizontalTextAlignment="Center">
+            </Label>
+            <Frame VerticalOptions="FillAndExpand" Margin="30,0,30,10" CornerRadius="20" HasShadow="True" BackgroundColor="Transparent">
+                <StackLayout>
+                    <Image Source="https://cdn-icons-png.flaticon.com/128/1934/1934343.png" VerticalOptions="FillAndExpand" />
+                    <Label Text="Calcula IMC" FontAttributes="Bold" FontSize="30" TextColor="White" HorizontalTextAlignment="Center" Margin="20"/>
+                    <Button x:Name="botonCalcular" Text="Calcular" CornerRadius="20" BackgroundColor="Purple" Clicked="botonCalcular_Clicked" Margin="20">
+                    </Button>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,109 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraIMC.vistas.ventanaCalcular"
+             BackgroundColor="#421049"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <ScrollView VerticalOptions="FillAndExpand" HorizontalScrollBarVisibility="Never">
+            <StackLayout VerticalOptions="Center"
+                         Margin="20,0"
+                         Spacing="20">
+                <Image Source="https://i.ibb.co/g4vB6S6/imc.png"
+                       Margin="20"/>
+                
+                <Frame BackgroundColor="Transparent">
+                    <Entry Keyboard="Numeric"
+                           Placeholder="Peso (Kg)"
+                           PlaceholderColor="White"
+                           TextColor="White"
+                           x:Name="txtPeso"/>
+
+                </Frame>
+
+                <Frame BackgroundColor="Transparent">
+                    <Entry Keyboard="Numeric"
+                           Placeholder="Estatura (m)"
+                           PlaceholderColor="White"
+                           TextColor="White"
+                           x:Name="txtEstatura"/>
+
+                </Frame>
+
+                <Picker x:Name="genderPicker" Title="Selecciona tu género" SelectedIndexChanged="GenderPicker_SelectedIndexChanged" Margin="20,0" TitleColor="White">
+                    <Picker.Items>
+                        <x:String>Masculino</x:String>
+                        <x:String>Femenino</x:String>
+                    </Picker.Items>
+                </Picker>
+
+                <Frame BackgroundColor="Transparent">
+                    <Entry Keyboard="Numeric"
+                           Placeholder="Edad"
+                           PlaceholderColor="White"
+                           TextColor="White"
+                           x:Name="txtEdad"/>
+                </Frame>
+                <Picker x:Name="actividadPicker" Title="Dias de ejercicio a la semana" SelectedIndexChanged="actividadPicker_SelectedIndexChanged" Margin="20,0" TitleColor="White" FontSize="Medium">
+                    <Picker.Items>
+                        <x:String>Rara vez</x:String>
+                        <x:String>De 1 a 3 dias</x:String>
+                        <x:String>De 3 a 5 dias</x:String>
+                        <x:String>De 6 a 7 dias</x:String>
+                        <x:String>Dos veces al dia</x:String>
+                    </Picker.Items>
+                </Picker>
+                <Button Text="Calcular"
+                        CornerRadius="10"
+                        FontSize="Medium"
+                        FontAttributes="Bold"
+                        Margin="0,20,0,0"
+                        TextTransform="None"
+                        BackgroundColor="Purple"
+                        x:Name="btnCalcular"
+                        Clicked="btnCalcular_Clicked"
+                        />
+                <Label Text="Resultado"
+                           FontSize="Medium"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center"
+                           />
+                <Label Text="0.00"
+                       FontSize="Medium"
+                       FontAttributes="Bold"
+                       VerticalOptions="Center"
+                       x:Name="lblResultado"/>
+                <Label Text="esperando valores..."
+                       FontSize="Medium"
+                       FontAttributes="Bold"
+                       VerticalOptions="Center"
+                       x:Name="lblEstado"/>
+                <Label Text="%GC: "
+                       FontSize="Medium"
+                       FontAttributes="Bold"
+                       VerticalOptions="Center"
+                       x:Name="lblGc"/>
+                <Label Text="Peso ideal: "
+                       FontSize="Medium"
+                       FontAttributes="Bold"
+                       VerticalOptions="Center"
+                       x:Name="lblPesoIdeal"/>
+                <Label Text="TDEE: "
+                       FontSize="Medium"
+                       FontAttributes="Bold"
+                       VerticalOptions="Center"
+                       x:Name="lblTDEE"/>
+                <Button Text="Regresar"
+                    BackgroundColor="Brown"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Start"
+                    CornerRadius="10"
+                    x:Name= "btnRegresar"
+                    Clicked="btnRegresar_Clicked"
+                />
+
+                <!-- Aquí puedes agregar más elementos según sea necesario -->
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

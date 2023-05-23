@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I+cdTsoSGL9RUz7N1A2cdStCcFHAomdBNol/9042iDey1R0ACTniURHlyHwmLJu8hb0u4ILR1+pXV5P5RlXtcg==",
+  "success": true,
+  "projectFilePath": "D:\\Programacion .NET\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.iOS\\CalculadoraIMC.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
