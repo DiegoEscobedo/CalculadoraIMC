@@ -1,0 +1,17 @@
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Release\netstandard2.0\CalculadoraIMC.deps.json
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Release\netstandard2.0\CalculadoraIMC.dll
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Release\netstandard2.0\CalculadoraIMC.pdb
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\CalculadoraIMC.csproj.AssemblyReference.cache
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\vistas\MenuPrincipal.xaml.g.cs
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\vistas\ventanaCalcular.xaml.g.cs
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\CalculadoraIMC.AssemblyInfoInputs.cache
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\CalculadoraIMC.AssemblyInfo.cs
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\XamlC.stamp
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\CalculadoraIMC.dll
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\refint\CalculadoraIMC.dll
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\CalculadoraIMC.pdb
+D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Release\netstandard2.0\ref\CalculadoraIMC.dll

@@ -1,6 +1,7 @@
 @string/appbar_scrolling_view_behavior;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
 adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
 adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\iconochido.xml
 alpha;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromleft.xml
 alpha;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC.Android\obj\Debug\130\lp\54\jl\res\anim\exittoleft.xml
 androidx.appcompat.widget.Toolbar;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC.Android\obj\Debug\130\lp\54\jl\res\layout\fallbacktoolbardonotuse.xml
@@ -12,6 +13,7 @@ androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Programacion .NET\Calcula
 attr;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC.Android\obj\Debug\130\lp\54\jl\res\values\attrs.xml
 background;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+background;obj\Debug\130\res\mipmap-anydpi-v26\iconochido.xml
 cache-path;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\130\res\values\colors.xml
 com.google.android.material.appbar.AppBarLayout;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC.Android\obj\Debug\130\lp\54\jl\res\layout\flyoutcontent.xml
@@ -26,6 +28,7 @@ external-cache-path;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\Calculado
 external-path;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+foreground;obj\Debug\130\res\mipmap-anydpi-v26\iconochido.xml
 FrameLayout;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC.Android\obj\Debug\130\lp\54\jl\res\layout\bottomtablayout.xml
 item;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC.Android\obj\Debug\130\lp\54\jl\res\values\styles.xml
 LinearLayout;D:\Programacion .NET\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC.Android\obj\Debug\130\lp\54\jl\res\layout\bottomtablayout.xml
